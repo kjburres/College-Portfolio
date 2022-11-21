@@ -1,0 +1,84 @@
+#navBar {
+  background-color: #666666;
+  padding: 1vh;
+  height: 10vh;
+  max-height: 85px;
+  min-height: 50px;
+  display: flex;
+}
+
+.navBarButton {
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 2vh;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  font-size: 1.25vw;
+}
+
+.navBarButton:hover {
+  color: #cccccc;
+}
+
+#hcaLogo {
+  height: 100%;
+  margin-left: 1vw;
+}
+
+#container{
+  padding: 5vh 3vw 5vh 8vw;
+  margin: 5vh 3vw 5vh 10vw;
+}
+
+.columnMain{
+max-width: 40vw;
+}
+
+#studentName{
+  font-size: 2.5vw;
+  max-font-size: 36px;
+  text-align: center;
+}
+
+#personPic{
+  height: 70vh;
+  max-height: 400px;
+  max-width: 35vw;
+  margin: auto;
+}
+
+#studentInfo{
+  border-style: solid;
+}
+
+.parent{
+  /*https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/*/
+  display: flex;
+  justify-content: center;
+}
+
+.infoLabel{
+font-weight: bold;
+font-size: 1.5vw;
+max-font size: 32px;
+
+}
+
+
+.info{
+font-size: 1.25vw;
+max-font-size: 32px;
+}
+
+.subRow{
+  padding: 1vh;
+  margin-bottom: 5vh;
+  max-margin-bottom: 100px;
+  
+}
+
+#subRow2Col2{
+  border-style: solid;
+  border-color: #aaaaaa;
+}

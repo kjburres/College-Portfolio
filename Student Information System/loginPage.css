@@ -1,0 +1,35 @@
+body{
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+
+#loginForm{
+   margin-left: 35vw;
+  margin-right: 35vw;
+}
+
+
+#hcaLogo{
+  width: 12vw;
+  margin-left: 44vw;
+  margin-right: 44vw;
+}
+
+.mb-3{
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+
+}
+
+#radios{
+  margin-top: 2vh;
+  margin-bottom: 3vh;
+}
+
+#radios:selected{
+    color: #000000;
+}
+
+a:hover{
+  text-decoration: underline;
+}

@@ -1,0 +1,119 @@
+#navBar {
+  background-color: #666666;
+  padding: 1vh;
+  height: 10vh;
+  max-height: 85px;
+  min-height: 50px;
+  display: flex;
+}
+
+.navBarButton {
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 2vh;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  font-size: 1.25vw;
+}
+
+.navBarButton:hover {
+  color: #cccccc;
+}
+
+#hcaLogo {
+  height: 100%;
+  margin-left: 1vw;
+}
+
+.container {
+  height: 90vh;
+  margin: 5px;
+  padding: 5px;
+}
+
+#studentSelector {
+  margin-top: 4vh;
+  padding: 1vh;
+  background-color: #cccccc;
+}
+
+
+.section {
+  background-color: #cccccc;
+  width: 20vw;
+  height: 20vh;
+  border-style: solid;
+  border-color: #800500;
+  border-width: 5px;
+  margin-top: 50px;
+  padding: 5px;
+  min-height: 100px;
+  min-width: 200px;
+  max-height: 200px;
+}
+
+.section:hover {
+  border-width: 4px;
+}
+
+.sectionCode {
+  font-size: 24px;
+  font-weight: bold;
+  color: #800500;
+}
+
+.sectionName {
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.instructor {
+  color: #800500;
+  font-style: italic;
+  font-size: 16px;
+}
+
+.button {
+  border-radius: 0px;
+}
+
+#childSelector {
+  margin-top: 20px;
+}
+
+
+/* Link Styling For Buttons: */
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.link:link {
+  text-decoration: none;
+}
+
+.link:visited {
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: none;
+}
+
+.link:active {
+  text-decoration: none;
+}
+
+

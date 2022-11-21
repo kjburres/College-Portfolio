@@ -1,0 +1,53 @@
+#navBar {
+  background-color: #666666;
+  padding: 1vh;
+  height: 10vh;
+  max-height: 85px;
+  min-height: 50px;
+  display: flex;
+}
+
+.navBarButton {
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 2vh;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  font-size: 1.25vw;
+}
+
+.navBarButton:hover {
+  color: #cccccc;
+}
+
+a:link, a:visited, a:active, a:hover{
+    text-decoration: none;  //https://www.w3schools.com/css/css_link.asp
+}
+
+#hcaLogo {
+  height: 100%;
+  margin-left: 1vw;
+}
+
+#courseContainer{
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  border-style: solid;
+  padding: 3vh 3vw;
+}
+
+#courseTitle{
+  font-weight: bold;
+}
+
+.instructor{
+  font-size: 1.5em;
+}
+
+#courseDescrip{
+  margin: 1vw;
+  font-size: 1.25em;
+}
