@@ -7,6 +7,8 @@
  **Language:** Java
 
 **Description:**
+This River simulation was an introduction to Java classes in a 200 level Data Structures and Algorithms class.
+In a series of iterations, bear and fish objects moved a random direction and either ate, died, or reproduced based on the content of the adjactnt location.
 <br/>
 <br/>
 <br/>
